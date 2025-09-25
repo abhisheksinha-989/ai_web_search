@@ -1,11 +1,15 @@
 # 🔍 AI Research Assistant
 
-A sophisticated web application that leverages multiple AI APIs to provide comprehensive research reports. The application searches across 15+ sources, analyzes the content using advanced AI models, and presents detailed, well-structured research reports with a modern dark theme interface.
+A sophisticated web application that leverages multiple AI APIs to provide comprehensive research reports. The application searches across different sources, analyzes the content using advanced AI models, and presents detailed, well-structured research reports with a modern dark theme interface.
+
+## 🌐 Live Website
+
+**Access the live application here:** [https://ai-web-search.onrender.com/](https://ai-web-search.onrender.com/)
 
 ## 🌟 Features
 
 ### 🔬 Advanced Research Capabilities
-- **Multi-Source Analysis**: Searches 15+ sources simultaneously using Serper and You.com APIs
+- **Multi-Source Analysis**: Searches different sources simultaneously using Serper and You.com APIs
 - **AI-Powered Synthesis**: Uses Qwen 2.5 72B model via OpenRouter for intelligent content analysis
 - **Comprehensive Reports**: Generates detailed, well-structured research reports with proper citations
 - **Smart Context Processing**: Analyzes up to 4000 characters of context from search results
@@ -357,4 +361,3 @@ For support and questions:
 **⭐ If you find this project useful, please give it a star on GitHub!**
 
 ---
-
