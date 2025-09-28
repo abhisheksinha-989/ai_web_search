@@ -1,4 +1,4 @@
-# 🔍 AI Research Assistant
+# 🔍 AI Search Assistant
 
 A sophisticated web application that leverages multiple AI APIs to provide comprehensive research reports. The application searches across different sources, analyzes the content using advanced AI models, and presents detailed, well-structured research reports with a modern dark theme interface.
 
